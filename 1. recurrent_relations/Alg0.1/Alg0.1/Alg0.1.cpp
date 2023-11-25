@@ -1,6 +1,4 @@
-﻿// Alg0.1.cpp 
-//
-//
+﻿
 
 #include <iostream>
 #include <vector>
